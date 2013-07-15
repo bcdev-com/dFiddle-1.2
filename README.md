@@ -32,7 +32,7 @@ which you would have to mock up on GitHub otherwise. The same goes for fiddles t
 ### Sharing the Fiddle
 
 Once you make your first commit the live version will become available at an URL like
-`http://Your_User_Name.github.io/dFiddle-1.2`. The published Url can be found under Repo | Settings | GitHub
+`http://bcdev-com.github.io/dFiddle-1.2`. The published Url can be found under Repo | Settings | GitHub
 Pages.
 According to GitHub, it may take up to **ten minutes** for changes to be visible.
 
