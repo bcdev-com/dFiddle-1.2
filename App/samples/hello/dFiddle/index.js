@@ -9,7 +9,7 @@
         displayName: 'What is your name?',
         name: name,
         sayHello: function () {
-            app.showMessage('Hello ' + name() + '!', 'Greetings');
+            app.showMessage('Hello, ' + name() + '!', 'Test');
         },
         canSayHello: canSayHello
     };
